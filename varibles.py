@@ -1,6 +1,8 @@
 i = 28
 print(f"i is {i}")
 
+print("prueba")
+
 f = 2.8
 print(f"i is {f}")
 
